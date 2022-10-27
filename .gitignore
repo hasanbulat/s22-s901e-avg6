@@ -1,0 +1,6 @@
+AIK-Linux*
+kernel_platform/prebuilts*
+toolchain.tar.gz
+kernel_platform/out*
+out*
+*~
