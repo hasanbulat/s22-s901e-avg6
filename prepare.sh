@@ -9,7 +9,7 @@ exit_if_failed() {
 
 if [[ ! -d AIK-Linux ]]; then
     echo "Download - aik"
-    scp test0.azenqos.com:/home/hasanbulat/tools/AIK-Linux-v3.8-ALL.tar.gz .
+    wget https://test0.azenqos.com/remote/uploads/android/tools/AIK-Linux-v3.8-ALL.tar.gz
     exit_if_failed
     tar -xzf AIK-Linux-v3.8-ALL.tar.gz
     exit_if_failed
@@ -17,7 +17,7 @@ fi
 
 if [[ ! -d kernel_platform/prebuilts ]]; then
     echo "Download - toolchain"
-    scp test0.azenqos.com:/home/hasanbulat/tools/toolchain.tar.gz .
+    wget https://test0.azenqos.com/remote/uploads/android/tools/toolchain.tar.gz
     exit_if_failed
     tar -xzf toolchain.tar.gz -C kernel_platform
     exit_if_failed
