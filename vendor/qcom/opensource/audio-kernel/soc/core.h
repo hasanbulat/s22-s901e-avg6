@@ -1,1 +1,1 @@
-/home/dpi/qb5_8814/workspace/P4_1716/android/kernel_platform/./msm-kernel/drivers/pinctrl/core.h
+/home/hasanbulat/kernel/samsung/s22/s901e/tmp/s22-s901e-avg6/kernel_platform/./msm-kernel/drivers/pinctrl/core.h
