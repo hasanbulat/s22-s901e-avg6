@@ -1,1 +1,1 @@
-/home/hasanbulat/kernel/samsung/s22/s901e/tmp/s22-s901e-avg6/kernel_platform/./msm-kernel/drivers/pinctrl/pinctrl-utils.h
+/data0/kernel-android/s22-s901e-avg6/kernel_platform/./msm-kernel/drivers/pinctrl/pinctrl-utils.h
